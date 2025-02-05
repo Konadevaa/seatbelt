@@ -29,7 +29,7 @@ Config.Distance = 20
 --- Players can manually change this keybind in their settings.
 --- @type string
 --- @see {@link https://docs.fivem.net/docs/game-references/input-mapper-parameter-ids/keyboard}
-Config.DefaultKeybind = 'K'
+Config.DefaultKeybind = 'B'
 
 --- Custom vehicles/seats that don't have seatbelts.  
 --- Bicycles, motorbikes and submersibles are excluded automatically
